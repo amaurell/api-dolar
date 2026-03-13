@@ -1,4 +1,4 @@
-# 💵 Cotação Dólar - Clean Architecture & SOLID
+# 💵 Cotação Dólar 
 
 ![Preview da Interface](preview.png)
 
