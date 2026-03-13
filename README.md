@@ -1,6 +1,6 @@
 # 💵 Cotação Dólar - Clean Architecture & SOLID
 
-![Preview da Interface](file:///C:/Users/amaur/.gemini/antigravity/brain/a9ce4e8b-21a6-4104-872c-4ccb9fcf67c4/media__1773413544104.png)
+![Preview da Interface](preview.png)
 
 [![Português](https://img.shields.io/badge/lang-pt--br-green.svg)](#-sobre-o-projeto) 
 [![English](https://img.shields.io/badge/lang-en-blue.svg)](#-about-the-project)
